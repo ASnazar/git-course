@@ -3,5 +3,6 @@ public class First_git {
 
         int xs;
         String f;
+        System.out.println("it's fine!");
     }
 }
